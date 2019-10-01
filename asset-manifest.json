@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React_Vidly_App/static/css/main.690c99f9.chunk.css",
+    "main.js": "/React_Vidly_App/static/js/main.4d0b26e9.chunk.js",
+    "main.js.map": "/React_Vidly_App/static/js/main.4d0b26e9.chunk.js.map",
+    "runtime~main.js": "/React_Vidly_App/static/js/runtime~main.0174c99d.js",
+    "runtime~main.js.map": "/React_Vidly_App/static/js/runtime~main.0174c99d.js.map",
+    "static/css/2.c574a3cb.chunk.css": "/React_Vidly_App/static/css/2.c574a3cb.chunk.css",
+    "static/js/2.854b013c.chunk.js": "/React_Vidly_App/static/js/2.854b013c.chunk.js",
+    "static/js/2.854b013c.chunk.js.map": "/React_Vidly_App/static/js/2.854b013c.chunk.js.map",
+    "index.html": "/React_Vidly_App/index.html",
+    "precache-manifest.87185c72f2bdb08794a0cad62de2a801.js": "/React_Vidly_App/precache-manifest.87185c72f2bdb08794a0cad62de2a801.js",
+    "service-worker.js": "/React_Vidly_App/service-worker.js",
+    "static/css/2.c574a3cb.chunk.css.map": "/React_Vidly_App/static/css/2.c574a3cb.chunk.css.map",
+    "static/css/main.690c99f9.chunk.css.map": "/React_Vidly_App/static/css/main.690c99f9.chunk.css.map",
+    "static/media/font-awesome.css": "/React_Vidly_App/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
